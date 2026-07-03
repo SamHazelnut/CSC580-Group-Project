@@ -1,0 +1,4 @@
+-host 192.168.1.16 -n 1 mpi_analytics.exe 1000000
+-host 192.168.1.18 -n 1 mpi_analytics.exe 1000000
+-host 192.168.1.13 -n 1 mpi_analytics.exe 1000000
+-host 192.168.1.4  -n 1 mpi_analytics.exe 1000000
